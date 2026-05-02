@@ -164,7 +164,6 @@
     "basename": "Desktop",
     "ext": "",
     "children": [
-      "winamp_shortcut",
       "sWTYkZhdpSYCmXP7z6459v",
       "2jpDfV5KSoYMArQnHgux5S",
       "jAaXPCn3ct7ufPDM1apy5x",
@@ -1223,16 +1222,5 @@
     "date_modified": 1676799354180,
     "sort_option": 0,
     "sort_order": 0
-  },
-  "winamp_shortcut": {
-  "type": "file",
-  "id": "winamp_shortcut",
-  "name": "Winamp",
-  "icon": "https://webamp.org/favicon.ico",
-  "starting_point": true,
-  "parent": "nt1QdU9Sws26H26UNQZcQU",
-  "basename": "Winamp",
-  "ext": "url",
-  "url": "https://webamp.org"
   }
 }
